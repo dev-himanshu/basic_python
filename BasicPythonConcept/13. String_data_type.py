@@ -9,5 +9,6 @@ for i in range(0, len(dir(s))):
         print()
 print()
 
+print("\n\n", "Practise of Built-in function of string data type".upper().center(160, '-'))
 
 

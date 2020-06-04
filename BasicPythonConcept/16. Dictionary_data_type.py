@@ -8,3 +8,6 @@ for i in range(0, len(dir(d))):
     if (i % 10) == 0 and (i != 0):
         print()
 print()
+
+print("\n\n", "Practise of Built-in function of dict data type".upper().center(160, '-'))
+

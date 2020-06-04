@@ -10,3 +10,9 @@ for i in range(0, len(dir(c))):
         print()
 print()
 
+# built-in function of complex type number data type :
+print("\n\n", "Practise of Built-in function of complex data type".upper().center(160, '-'))
+print(c.conjugate())
+print(c.imag)
+print(c.real)
+
