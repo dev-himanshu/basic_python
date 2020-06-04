@@ -1,5 +1,6 @@
 # keyword
 # fractions
+# decimal
 # constant
 # math
 # cmath
