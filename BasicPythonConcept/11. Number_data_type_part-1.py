@@ -19,3 +19,10 @@ for i in range(0, len(dir(b))):
         print()
 print()
 
+
+# practise on built-in functions of int and float :
+print("\n\n", "Practise of Built-in function of int data".upper().center(160, '-'))
+a = -56
+b = 104
+print(a.__abs__())      # __abs__()
+
