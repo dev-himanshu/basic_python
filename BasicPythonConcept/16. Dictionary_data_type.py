@@ -11,3 +11,6 @@ print()
 
 print("\n\n", "Practise of Built-in function of dict data type".upper().center(160, '-'))
 
+# clear      copy      fromkeys      get      items      keys      pop      popitem      setdefault      update
+# values    len
+

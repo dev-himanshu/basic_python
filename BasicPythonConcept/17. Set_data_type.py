@@ -11,3 +11,8 @@ print()
 
 print("\n\n", "Practise of Built-in function of set data type".upper().center(160, '-'))
 
+# add      clear      copy      difference      difference_update      discard      intersection
+# intersection_update      isdisjoint      issubset      issuperset      pop      remove      symmetric_difference
+# symmetric_difference_update      union      update    len
+
+

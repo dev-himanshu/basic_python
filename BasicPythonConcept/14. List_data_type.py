@@ -11,3 +11,6 @@ print()
 
 print("\n\n", "Practise of Built-in function of list data type".upper().center(160, '-'))
 
+# append      clear      copy      count      extend      index     insert      pop      remove      reverse      sort
+# len
+

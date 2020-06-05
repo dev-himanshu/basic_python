@@ -11,3 +11,6 @@ print()
 
 print("\n\n", "Practise of Built-in function of tuple data type".upper().center(160, '-'))
 
+# count      index      len
+
+
