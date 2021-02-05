@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\himanshu\Documents\GitHub\basic_python\BasicPythonConcept\venv"
+VIRTUAL_ENV="G:\BASIC_FUNDAMENTALS_OF_PYTHON\basic_python\BasicPythonConcept\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
