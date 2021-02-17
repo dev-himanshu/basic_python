@@ -30,3 +30,8 @@ my_list = [
     [90, 80, 70],
 ]
 print(my_list[1][:2])
+
+
+string = "Himanshu_Mishra_0832CS171065_CSE-B"
+print(string[-10:-20:-1])
+# start and step must have same signed value else it will print nothing and confuse to go where
